@@ -15,6 +15,9 @@
   "workbench.tips.enabled": false,
   "workbench.editor.showTabs": "multiple",
   "workbench.tree.enableStickyScroll": false,
+  "workbench.editor.pinnedTabSizing": "compact",
+  "workbench.editor.enablePreview": false,
+  "workbench.sideBar.location": "right",
   "editor.fontSize": 14,
   "editor.minimap.enabled": false,
   "editor.scrollbar.horizontal": "hidden",
@@ -22,13 +25,17 @@
   "editor.formatOnSave": true,
   "editor.stickyScroll.enabled": false,
   "editor.lightbulb.enabled": "off",
+  "window.commandCenter": false,
+  "window.zoomLevel": 0,
+  "window.newWindowDimensions": "maximized"
+  "window.newWindowDimensions": "maximized",
+  "window.titleBarStyle": "custom",
   "terminal.integrated.fontSize": 14,
   "symbols.hidesExplorerArrows": false,
   "explorer.compactFolders": false,
   "breadcrumbs.enabled": false,
-  "window.commandCenter": false,
-  "window.zoomLevel": 0,
-  "window.titleBarStyle": "custom",
+  "chat.commandCenter.enabled": false,
+  "search.collapseResults": "alwaysCollapse",
 
   // Configurações de linha
   "workbench.colorCustomizations": {
@@ -54,5 +61,4 @@
   // Seleção e highlight
   "editor.occurrencesHighlight": "multiFile",
   "editor.selectionHighlight": true,
-
 }
